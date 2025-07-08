@@ -1,7 +1,9 @@
-[D[D[D[D[DBC
+ABC
 ABCD
 ABCDE
 ABCDEF
-ABCDEF
-[A[C[C[C[C[C[C[C[C[C[D[DEFG
+ABCDEFG
 ABCDEFGH
+
+import pandas as pd
+import numpy as np
